@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/svnshsahu/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
