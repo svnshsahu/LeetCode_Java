@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/svnshsahu/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
