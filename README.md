@@ -122,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
