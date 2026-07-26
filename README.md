@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
+| [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/svnshsahu/LeetCode_Java/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/svnshsahu/LeetCode_Java/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
