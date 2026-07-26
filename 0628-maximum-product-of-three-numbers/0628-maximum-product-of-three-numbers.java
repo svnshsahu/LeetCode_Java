@@ -5,8 +5,6 @@ class Solution {
         int max3 = Integer.MIN_VALUE ;
         int min1 = Integer.MAX_VALUE ;
         int min2 = Integer.MAX_VALUE ;
-        int min3 = Integer.MAX_VALUE ;
-
         for(int i=0;i<nums.length;i++){
             if(nums[i] > max1){
                 max3 = max2 ;
@@ -18,27 +16,15 @@ class Solution {
             }else if(nums[i] > max3){
                 max3 = nums[i];
             }
-        }
-
-        for(int i=0;i<nums.length;i++){
             if(nums[i] < min1){
-                min3 = min2 ;
                 min2 = min1 ;
                 min1 = nums[i];
             }else if(nums[i] < min2){
-                min3 = min2 ;
                 min2 = nums[i];
-            }else if(nums[i] < min3 ){
-                min3 = nums[i];
-            }
         }
-
+        }
         int case1 = max1 * max2 * max3 ;
         int case2 = max1 * min1 * min2 ;
-
-
         return Math.max(case1 , case2);
-
-
     }
 }
