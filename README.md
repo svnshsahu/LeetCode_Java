@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
