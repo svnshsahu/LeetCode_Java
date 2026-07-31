@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/svnshsahu/LeetCode_Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -140,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
