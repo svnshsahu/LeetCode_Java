@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
