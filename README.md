@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/svnshsahu/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
+| [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
