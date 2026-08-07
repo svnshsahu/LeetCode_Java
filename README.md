@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/svnshsahu/LeetCode_Java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0055-jump-game) |
+| [0860-lemonade-change](https://github.com/svnshsahu/LeetCode_Java/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
