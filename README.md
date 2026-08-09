@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/svnshsahu/LeetCode_Java/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/svnshsahu/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
