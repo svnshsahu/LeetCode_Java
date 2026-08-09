@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/svnshsahu/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/svnshsahu/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/svnshsahu/LeetCode_Java/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/svnshsahu/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
