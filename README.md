@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/svnshsahu/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/svnshsahu/LeetCode_Java/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/svnshsahu/LeetCode_Java/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/svnshsahu/LeetCode_Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
