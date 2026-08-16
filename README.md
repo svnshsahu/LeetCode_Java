@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/svnshsahu/LeetCode_Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/svnshsahu/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/svnshsahu/LeetCode_Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3839-number-of-prefix-connected-groups](https://github.com/svnshsahu/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
 ## Backtracking
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/svnshsahu/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/svnshsahu/LeetCode_Java/tree/master/3536-maximum-product-of-two-digits) |
 ## String
