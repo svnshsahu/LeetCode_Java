@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1929-concatenation-of-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svnshsahu/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/svnshsahu/LeetCode_Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Game Theory
 |  |
 | ------- |
