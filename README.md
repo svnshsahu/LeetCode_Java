@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1929-concatenation-of-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svnshsahu/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/svnshsahu/LeetCode_Java/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/svnshsahu/LeetCode_Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
