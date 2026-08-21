@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/svnshsahu/LeetCode_Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/svnshsahu/LeetCode_Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3839-number-of-prefix-connected-groups](https://github.com/svnshsahu/LeetCode_Java/tree/master/3839-number-of-prefix-connected-groups) |
+| [4024-nearest-available-drone](https://github.com/svnshsahu/LeetCode_Java/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/svnshsahu/LeetCode_Java/tree/master/4024-nearest-available-drone) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
