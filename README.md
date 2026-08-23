@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/svnshsahu/LeetCode_Java/tree/master/1386-cinema-seat-allocation) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1929-concatenation-of-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/svnshsahu/LeetCode_Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
