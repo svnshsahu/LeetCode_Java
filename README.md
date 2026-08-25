@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/svnshsahu/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/svnshsahu/LeetCode_Java/tree/master/0860-lemonade-change) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/svnshsahu/LeetCode_Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/svnshsahu/LeetCode_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/svnshsahu/LeetCode_Java/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/svnshsahu/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/svnshsahu/LeetCode_Java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0455-assign-cookies](https://github.com/svnshsahu/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/svnshsahu/LeetCode_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svnshsahu/LeetCode_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/svnshsahu/LeetCode_Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/svnshsahu/LeetCode_Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/svnshsahu/LeetCode_Java/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/svnshsahu/LeetCode_Java/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/svnshsahu/LeetCode_Java/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/svnshsahu/LeetCode_Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
