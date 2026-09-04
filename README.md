@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/svnshsahu/LeetCode_Java/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/svnshsahu/LeetCode_Java/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/svnshsahu/LeetCode_Java/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/svnshsahu/LeetCode_Java/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/svnshsahu/LeetCode_Java/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3903-smallest-stable-index-i](https://github.com/svnshsahu/LeetCode_Java/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
