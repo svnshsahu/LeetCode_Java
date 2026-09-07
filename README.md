@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/svnshsahu/LeetCode_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/svnshsahu/LeetCode_Java/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/svnshsahu/LeetCode_Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/svnshsahu/LeetCode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/svnshsahu/LeetCode_Java/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/svnshsahu/LeetCode_Java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/svnshsahu/LeetCode_Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/svnshsahu/LeetCode_Java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/svnshsahu/LeetCode_Java/tree/master/0877-stone-game) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/svnshsahu/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/svnshsahu/LeetCode_Java/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
